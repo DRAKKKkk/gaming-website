@@ -71,8 +71,9 @@ Gallery Section
 🤝 Connect
 Have questions about the implementation? Feel free to reach out!
 
-LinkedIn
-Email
+LinkedIn - https://www.linkedin.com/in/tejas-raj-09aa4a236/
+Email - rajtejas.xyz@gmail.com
+PortFolio - https://portfolio-ecru-iota-48.vercel.app/
 
 Note: This project was developed for educational purposes to demonstrate advanced web animation techniques. Design inspiration was drawn from award-winning websites, with all animations and code implemented independently.
 
