@@ -1,6 +1,6 @@
 # Luxe - Award-Winning Website Experience
 
-![Project Banner](https://placehold.co/1200x400?text=Luxe+Award-Winning+Design)
+![Project Banner](./public/img/readme-shot.png)
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
