@@ -45,8 +45,8 @@ Luxe is a visually stunning website featuring cutting-edge animations and intera
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/luxe-website.git
-cd luxe-website
+git clone https://github.com/DRAKKKkk/gaming-website.git
+cd gaming-website
 Install dependencies
 
 bash
